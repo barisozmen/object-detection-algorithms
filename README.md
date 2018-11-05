@@ -1,14 +1,11 @@
 # object-detection-algorithms
 
-blogposts
+### blogposts
 
 [blog post](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e) – R-CNN, Fast R-CNN, Faster R-CNN, YOLO — Object Detection Algorithms 
 
 
-
-Papers
-
-
+### Papers
 
 [Girschik et al., 2014](https://arxiv.org/abs/1311.2524) (R-CNN)
 
@@ -25,7 +22,6 @@ Papers
 [Lin et al., 2017](https://arxiv.org/abs/1612.03144) – Feature pyramid network (used in Focal Loss - RetinaNet)
 
 [Huang et al., 2017](https://arxiv.org/abs/1611.10012) – Speed/Accurracy tradeoffs for convolutional object detectors
-
 
 
 
