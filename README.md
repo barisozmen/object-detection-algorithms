@@ -22,6 +22,11 @@ Papers
 
 [Lin et al., 2017](https://arxiv.org/abs/1708.02002) (FAIR)
 
+[Lin et al., 2017](https://arxiv.org/abs/1612.03144) – Feature pyramid network (used in Focal Loss - RetinaNet)
+
 [Huang et al., 2017](https://arxiv.org/abs/1611.10012) – Speed/Accurracy tradeoffs for convolutional object detectors
 
 
+
+
+mean average precision (mAP)
