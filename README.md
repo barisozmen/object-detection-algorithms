@@ -1,4 +1,4 @@
-# object-detection-algorithms
+# Object Detection Algorithms
 
 ### blogposts
 
