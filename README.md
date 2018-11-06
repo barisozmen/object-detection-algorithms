@@ -17,7 +17,7 @@
 
 [He et al., 2017](https://arxiv.org/abs/1703.06870) (Mask R-CNN) (FAIR)
 
-[Lin et al., 2017](https://arxiv.org/abs/1708.02002) (FAIR)
+[Lin et al., 2017](https://arxiv.org/abs/1708.02002) (Focal Loss) (FAIR)
 
 [Lin et al., 2017](https://arxiv.org/abs/1612.03144) – Feature pyramid network (used in Focal Loss - RetinaNet)
 
